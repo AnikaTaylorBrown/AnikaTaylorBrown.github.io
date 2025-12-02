@@ -8,7 +8,7 @@ body{
 }
 
 .heading{
-  background-image: url("images/bokeh01.jpg");
+  background-image: url("bokeh01.jpg");
   background-size: cover;
   color: white;
   padding-top: 20px;
@@ -69,7 +69,7 @@ h3{
   }
 
   #home-page{
-    background-image: url("images/bokeh04.jpg");
+    background-image: url("bokeh04.jpg");
     background-color: rgba(190,190,190,.5);
     background-blend-mode: lighten;
     padding-bottom: 10px;
